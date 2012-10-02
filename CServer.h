@@ -11,4 +11,17 @@
 
 #include <iostream>
 
+class CServer
+{
+private:
+    
+protected:
+    
+public:
+    CServer();
+    CServer(int port);
+    ~CServer();
+
+};
+
 #endif /* defined(__SLive__CServer__) */
