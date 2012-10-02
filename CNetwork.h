@@ -1,23 +1,24 @@
 //
-//  CDatabase.h
+//  CNetwork.h
 //  SLive
 //
 //  Created by Markus Scholl on 02.10.12.
 //  Copyright (c) 2012 CLMM. All rights reserved.
 //
 
-#ifndef __SLive__CDatabase__
-#define __SLive__CDatabase__
+#ifndef __SLive__CNetwork__
+#define __SLive__CNetwork__
 
 #include <iostream>
 
-class CDatabase
+class CNetwork
 {
 private:
     
 protected:
     
 public:
-    CDatabase();
+    CNetwork();
 };
-#endif /* defined(__SLive__CDatabase__) */
+
+#endif /* defined(__SLive__CNetwork__) */
